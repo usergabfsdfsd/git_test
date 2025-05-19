@@ -1,1 +1,10 @@
-Holaaaaa
+🗂️ 1. Sprint Backlog
+a) ¿Qué representa para mí?
+El Sprint Backlog representa la lista priorizada de tareas e historias de usuario que el equipo ha seleccionado para trabajar durante un Sprint específico. Es el resultado de la planificación del Sprint y sirve como una guía clara para saber qué se va a construir y cómo.
+
+b) Evidencia en Jira:
+(Inserta aquí una captura de tu tablero de Sprint con las historias seleccionadas para el Sprint actual o uno pasado. Idealmente, que se vean claramente los tickets seleccionados y su estado —To Do, In Progress, Done—.)
+
+c) Utilidad en mi proyecto:
+El Sprint Backlog ha sido clave para organizar el trabajo de cada iteración. Me permite enfocar al equipo en lo realmente prioritario, evitar distracciones con tareas no planificadas, y tener visibilidad del avance de cada historia durante el Sprint.
+
